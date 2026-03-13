@@ -4,14 +4,6 @@ A modern Android music player that streams audio from Google Drive. Built with c
 
 ---
 
-## 📱 Screenshots
-
-> _Add your screenshots here_
-
-| Splash | Song List | Player | Add Song |
-|--------|-----------|--------|----------|
-| ![Splash]() | ![Songs]() | ![Player]() | ![Add]() |
-
 ---
 
 ## ✨ Features
