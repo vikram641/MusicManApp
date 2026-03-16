@@ -274,4 +274,4 @@ MIT License — free to use, modify and distribute.
 
 ---
 
-<p align="center">Built with ❤️ using Kotlin + Jetpack</p>
+
